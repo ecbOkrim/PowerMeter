@@ -1,0 +1,1 @@
+{"cpu":{"name":"Arduino Nano","com_name":"COM3","fqbn":"arduino:avr:nano:cpu=atmega328old","flavour":"atmega328old"},"included_libs":[{"name":"Rtc by Makuna","version":"2.0.2"}],"secrets":[]}
